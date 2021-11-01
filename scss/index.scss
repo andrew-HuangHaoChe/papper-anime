@@ -1,0 +1,13 @@
+@import '_reset.scss';
+.block {
+    width: 100px;
+    height: 100px;
+    background: #000;
+    border-radius: 10px;
+    // transform: translateX(100px) translateY(100%); 
+}
+
+.paper-flip {
+    max-width: 300px;
+    margin: 0 auto;
+}
